@@ -6,6 +6,7 @@ Prueba la app : https://johanjimenex.github.io/to-do-list/
 `Captura de pantalla`
 ![](img/todolist.gif)
 
+`html`
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -64,6 +65,7 @@ Prueba la app : https://johanjimenex.github.io/to-do-list/
 
 </html>
 ```
+`JavaScript`
 ```javascript
 var form = document.querySelector('#product-form');
 var listaProductos = document.querySelector('#product-list');
